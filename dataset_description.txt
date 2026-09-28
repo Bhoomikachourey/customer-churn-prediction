@@ -1,0 +1,34 @@
+Customer Churn Dataset
+
+Purpose:
+Used for developing a machine learning model to predict customer churn.
+
+Target:
+Churn
+
+Target values:
+Yes → Customer churned
+No → Customer did not churn
+
+Features include:
+
+* Gender
+* Senior Citizen
+* Partner
+* Dependents
+* Tenure
+* Phone Service
+* Internet Service
+* Online Security
+* Online Backup
+* Device Protection
+* Tech Support
+* Streaming TV
+* Streaming Movies
+* Contract
+* Paperless Billing
+* Payment Method
+* Monthly Charges
+* Total Charges
+
+The customer ID is treated as an identifier and is not used as a model feature.
